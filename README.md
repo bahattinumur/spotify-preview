@@ -12,4 +12,4 @@ I've created an app featuring previews of some of my favorite songs from the ico
 
 <h2> Screen Gif </h2>
 
-![](gijack.gif)
+![](gifspo.gif)
